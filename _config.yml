@@ -1,0 +1,28 @@
+name: Shock
+favicon: null
+layout_spectrum: 0.3353120102547109
+typography_spectrum: 0.7576384348794818
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.15023748204112053
+  lightness: 0.7251360262744129
+  saturation: 0.1023018411360681
+  rhythmicContrast: 0.57693906663917
+purpose: []
